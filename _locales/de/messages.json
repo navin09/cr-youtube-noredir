@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube No Redirect!",
+    "description": "Name der Erweiterung"
+  },
+  "extDescription": {
+    "message": "Ändert alle YouTube-Linkweiterleitungen in direkte Links.",
+    "description": "Beschreibung der Erweiterung"
+  }
+}

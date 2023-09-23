@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube No Redirect!",
+    "description": "확장의 이름"
+  },
+  "extDescription": {
+    "message": "모든 YouTube 링크 리디렉션을 직접 링크로 변경합니다.",
+    "description": "확장에 대한 설명"
+  }
+}
