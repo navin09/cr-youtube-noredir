@@ -2,7 +2,7 @@
 
 This extension for Chrome/Chromium changes all redirected links on YouTube to direct links. It also adds the direct link's domain as a tooltip that appears when the link is hovered over.
 
-Source for this extension can be found at: https://github.com/navin09/cr-youtube-noredir
+Source for this extension can be found at: https://github.com/navin09/cr-youtube-noredir/
 
 ## Licence
 
