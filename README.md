@@ -10,4 +10,4 @@ This add-on by [Navin](https://github.com/navin09) is licenced under the terms o
 
 ### Attributions:
 
-- <a href="https://www.flaticon.com/free-icons/no-u-turn" title="no u turn icons">No u turn icons created by Andrean Prabowo - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icon/no-u-turn_6742739" title="no u turn icons">No u turn icons created by Andrean Prabowo - Flaticon</a>
