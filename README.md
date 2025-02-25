@@ -4,6 +4,8 @@ This extension for Chrome/Chromium changes all redirected links on YouTube to di
 
 Source for this extension can be found at: https://github.com/navin09/cr-youtube-noredir/
 
+Chrome Web Store Listing: https://chromewebstore.google.com/detail/youtube-no-redirect/alpdglienofkdfjopfdniapimhdgiebe
+
 ## Licence
 
 This add-on by [Navin](https://github.com/navin09) is licenced under the terms of the GPLv3.
